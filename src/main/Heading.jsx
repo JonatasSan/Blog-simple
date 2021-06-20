@@ -3,7 +3,7 @@ import Imagen from './logo192.png'
 import './Heading.css'
 
 
-export default function () {
+export default function (_) {
     return(
         <div>
             <img src={Imagen} alt="imagen.png" />

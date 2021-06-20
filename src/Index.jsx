@@ -4,7 +4,7 @@ import Cards from './Cards/Cards'
 import Heading from './main/Heading'
 import Footer from './footer/Footer'
 
-export default function () {
+export default function (_) {
     return (
         <div>
             <Heading></Heading>

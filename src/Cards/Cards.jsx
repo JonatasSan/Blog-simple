@@ -1,7 +1,7 @@
 import React from 'react'
 import './Cards.css'
 
-export default props => {
+export default  props => {
 
     return (
         <a href={props.link}  >
