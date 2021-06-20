@@ -8,7 +8,7 @@ export default function Footer() {
     return (
         <footer>
             <div>
-                <a href="https://www.facebook.com/jonatasfloripa/"><GoMarkGithub /></a>
+                <a href="https://github.com/JonatasSan"><GoMarkGithub /></a>
                 <a href="https://www.instagram.com/jhonbary_/"><FiInstagram /></a>
                 <a href="https://www.linkedin.com/in/jonatas-dos-santos-b94b54212/"><FaLinkedin /></a>
             </div>

@@ -10,7 +10,7 @@ export default function (_) {
             <Heading></Heading>
             <div className='container-cards'>
                 <Cards title='LinkedIn' text='Tudo sobre minha vida profissional e minha carreira.' link='https://www.linkedin.com/in/jonatas-dos-santos-b94b54212/'></Cards>
-                <Cards title='Github' text='Navegue pelos meus codigos e projetos finalisados. ' link=''></Cards>
+                <Cards title='Github' text='Navegue pelos meus codigos e projetos finalisados. ' link='https://github.com/JonatasSan'></Cards>
                 <Cards title='Instagram' text='Acompanhe meu dia a dia.' link='https://www.instagram.com/jhonbary_/'></Cards>
                 <Cards title='Facebook' text='Outra rede social.' link='https://www.facebook.com/jonatasfloripa/'></Cards>
             </div>
