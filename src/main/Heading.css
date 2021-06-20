@@ -1,0 +1,18 @@
+
+img {
+    border-radius: 50%;
+    margin: 32px 0;
+}
+
+h1 {
+    font-size: 56px;
+    margin: 0;
+    font-weight: Medium;
+    color:var(--cor-principal);
+}
+
+p {
+    font-size: 20px;
+    margin: 20px;
+    font-weight: 300;
+}

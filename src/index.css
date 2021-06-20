@@ -1,0 +1,15 @@
+#root {
+    --cor-principal:#D3D3D3;
+}
+
+body {
+    background-color: #252426;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Montserrat;
+}
+.container-cards {
+    margin-top: 5rem;
+    margin-bottom: 15rem;
+}

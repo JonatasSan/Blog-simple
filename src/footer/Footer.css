@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+footer {
+    background-color:var(--cor-principal);
+    text-align: center;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+a:hover {
+    color: rgba(255, 255, 255, 0.582);
+}
+
